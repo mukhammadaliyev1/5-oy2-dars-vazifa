@@ -69,7 +69,6 @@
 // function findindeArr(names){
 //     let res = names.findIndex((names)=> names.includes('bek'))
 
-
 //     return res
 
 // }
@@ -88,36 +87,7 @@
 // }
 // console.log(findarr(num));
 
-
 // 4.REkursiv Funksiya
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // Objects
 
@@ -282,7 +252,6 @@
 // }
 // console.log(findNameendsithJon(names2));
 
-
 // 14-misol
 
 // let num=[1,2,3,4,555,666,788,99]
@@ -301,7 +270,6 @@
 
 // function findindeArr(names){
 //     let res = names.findIndex((names)=> names.includes('bek'))
-
 
 //     return res
 
