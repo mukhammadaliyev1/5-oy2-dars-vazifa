@@ -64,10 +64,60 @@
 // }console.log(findElement(arr));
 
 // 3-misol
+// let names =[ 'farxod','alijon', 'valibek']
+
+// function findindeArr(names){
+//     let res = names.findIndex((names)=> names.includes('bek'))
+
+
+//     return res
+
+// }
+
+// console.log(findindeArr(names));
 
 //  4-misol
+// let num=[1,2,3,4,555,666,788,99]
+// function  findarr(num){
+//     let res = num.find(function(value){
+//         if(value >99 && value<1000 && value%5==0){
+//  return  value
+//         }
+//     })
+//     return res
+// }
+// console.log(findarr(num));
+
 
 // 4.REkursiv Funksiya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Objects
 
@@ -235,3 +285,26 @@
 
 // 14-misol
 
+// let num=[1,2,3,4,555,666,788,99]
+// function  findarr(num){
+//     let res = num.find(function(value){
+//         if(value >99 && value<1000 && value%5==0){
+//  return  value
+//         }
+//     })
+//     return res
+// }
+// console.log(findarr(num));
+
+// 15-misol
+// let names =[ 'farxod','alijon', 'valibek']
+
+// function findindeArr(names){
+//     let res = names.findIndex((names)=> names.includes('bek'))
+
+
+//     return res
+
+// }
+
+// console.log(findindeArr(names));
